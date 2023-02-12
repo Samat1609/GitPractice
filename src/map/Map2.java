@@ -24,4 +24,5 @@ public class Map2 {
 
 
     }
+    //Samat
 }
