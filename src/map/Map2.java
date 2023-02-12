@@ -24,6 +24,5 @@ public class Map2 {
 
 
     }
-
-    //Samat Abdraev
+    //Samat
 }
